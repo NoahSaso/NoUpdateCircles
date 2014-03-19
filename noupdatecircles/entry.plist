@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = NoUpdateCircles;
+	cell = PSLinkCell;
+	detail = NoUpdateCirclesListController;
+	icon = NoUpdateCircles.png;
+	isController = 1;
+	label = NoUpdateCircles;
+    };
+}
