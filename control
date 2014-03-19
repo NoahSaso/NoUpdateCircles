@@ -4,6 +4,6 @@ Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
 Description: No more annoying install/update circles!
-Maintainer: Sassoty <noahsaso@gmail.com>
-Author: Sassoty <noahsaso@gmail.com>
+Maintainer: Sassoty <sassoty@gmail.com>
+Author: Sassoty <sassoty@gmail.com>
 Section: Tweaks
